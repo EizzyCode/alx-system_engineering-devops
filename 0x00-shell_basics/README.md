@@ -17,3 +17,4 @@ Moving all files with capital letter
 Deleting files with a specific symbol
 Printing directory tree
 List with commands
+Magic File
