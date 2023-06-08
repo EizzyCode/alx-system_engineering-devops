@@ -1,1 +1,2 @@
-discription of files
+Displaying the content list of a directory
+working directory
