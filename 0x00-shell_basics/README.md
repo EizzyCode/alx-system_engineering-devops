@@ -7,3 +7,4 @@ Display current directory contents
 My first directory
 Moving files
 Deleting a file
+Deleting directory
