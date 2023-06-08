@@ -2,3 +2,4 @@ Displaying the content list of a directory
 working directory
 chamging directory
 listing long directories
+Display hidden files in long format
