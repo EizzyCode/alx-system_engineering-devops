@@ -10,3 +10,4 @@ Deleting a file
 Deleting directory
 Back to the previous directory
 Listing in different directories
+The type of a file
