@@ -14,3 +14,4 @@ The type of a file
 Symbolic link
 Copying files that dont belong to a directory to that directory
 Moving all files with capital letter
+Deleting files with a specific symbol
